@@ -124,6 +124,6 @@ Deliverables Checklist
 - Working prototype (local): yes
 - README with design decisions, 24h trade-offs, run/test steps: yes
 - Short Loom/screen recording demo: 
-- Code in a GitHub repo: https://github.com/RikuSato0/backend_architecture.git
+- Code in a GitHub repo: https://github.com/RikuSato0/AI-Powered-Knowledge-Base-Search---Enrichment
 
 
