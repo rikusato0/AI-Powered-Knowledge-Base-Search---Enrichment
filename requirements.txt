@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+SQLAlchemy==2.0.34
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+pypdf==4.3.1
+python-multipart==0.0.9
+httpx==0.27.0
+numpy>=1.25,<3
+tenacity==9.0.0
+openai==1.51.0
+starlette==0.38.5
+typing-extensions>=4.9.0
+python-dotenv==1.0.1
