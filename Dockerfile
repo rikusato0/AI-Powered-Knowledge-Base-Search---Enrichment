@@ -20,7 +20,7 @@ RUN pip install --upgrade pip \
 # Copy project files
 COPY app /app/app
 COPY README.md /app/README.md
-COPY env.example /app/env.example
+COPY .env.local /app/.env.local
 
 # Ensure data directory exists inside the image (will be mounted in compose)
 RUN mkdir -p /app/data

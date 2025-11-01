@@ -121,7 +121,7 @@ Demo
 
 Deliverables Checklist
 
-- Working prototype (local): yes
+- Working prototype (local): yes (http://45.61.150.108:8000/docs)
 - README with design decisions, 24h trade-offs, run/test steps: yes
 - Short Loom/screen recording demo: 
 - Code in a GitHub repo: https://github.com/RikuSato0/AI-Powered-Knowledge-Base-Search---Enrichment
