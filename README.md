@@ -126,4 +126,8 @@ Deliverables Checklist
 - Short Loom/screen recording demo: 
 - Code in a GitHub repo: https://github.com/RikuSato0/AI-Powered-Knowledge-Base-Search---Enrichment
 
+License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
